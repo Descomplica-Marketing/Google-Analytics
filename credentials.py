@@ -1,0 +1,6 @@
+client_id = '176444491928-39kfl1phb72ofaps61qfnskrhmnhrkta.apps.googleusercontent.com'
+client_secret = 'mPBZQRwhwm-3o9nAetmfwSQY'
+redirect_uri = 'http://localhost'
+access_code = '4/ggHMabDiai2eLNhe8lflH45rMW9huxdhi1pmnPGVjIn-fP3gp8xC_hx1sWDn1XmAywdQp4lRzKyOKMrGL09yiLQ'
+access_token = 'ya29.GltAB4nr1M19se1MJPjBvYsUgcwghWrs_ZUgP1UC2qme4ZUr_4rssMDrp8OCnOefksorDqbWiAfc-HwIFzyYVZJlad4aNkU_XznASDB9q9IxmVhNq2fKk1QQ2NWe'
+refresh_token = '1/B5fZdh-NX916tekmUF32jV4ly-W_sdMLC6jrN6_UznlGcmM8zRFaX_t6xpexNpHJ'
